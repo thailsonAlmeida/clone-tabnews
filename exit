@@ -1,0 +1,54 @@
+[33mcommit 226b8bf45eab61931ea8ed5ec5aed5995f587875[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Thailson Almeida <103151779+thailsonAlmeida@users.noreply.github.com>
+Date:   Sun Aug 10 14:08:44 2025 +0000
+
+    add pages
+
+ pages/index.js | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+
+[33mcommit 6638823e378981e6138c99b238bd1aeb230a9ea8[m
+Author: Thailson Almeida <103151779+thailsonAlmeida@users.noreply.github.com>
+Date:   Sun Aug 10 14:07:11 2025 +0000
+
+    add manifest
+
+ package-lock.json | 457 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ package.json      |  16 [32m+++[m
+ 2 files changed, 473 insertions(+)
+
+[33mcommit a9d13f89b0b81a008e886482cb1283e27158b944[m
+Author: Thailson Almeida <103151779+thailsonAlmeida@users.noreply.github.com>
+Date:   Sun Aug 10 14:06:03 2025 +0000
+
+    update readme
+
+ README.md | 17 [32m+++++++++++++++++[m
+ 1 file changed, 17 insertions(+)
+
+[33mcommit f0bd8f90624ffbe04a587ba162e997c3bdc34d6c[m
+Author: Thailson Almeida <103151779+thailsonAlmeida@users.noreply.github.com>
+Date:   Sun Aug 10 14:04:25 2025 +0000
+
+    add .nvmrc
+
+ .nvmrc | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit a3a68323085b515e91539c5ddc0638d0c0c418c1[m
+Author: Thailson Almeida <103151779+thailsonAlmeida@users.noreply.github.com>
+Date:   Sat Aug 9 14:33:35 2025 +0000
+
+    add gitignore
+
+ .gitignore | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 2fa2678700b357b705e71bcefb00ab36f0fb1b10[m
+Author: Thailson Almeida <103151779+thailsonAlmeida@users.noreply.github.com>
+Date:   Wed Aug 6 20:06:39 2025 -0300
+
+    Create README.md
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
