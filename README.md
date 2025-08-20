@@ -10,6 +10,7 @@ Um repositório destinado ao projeto do curso.dev
 - Next.js
 - React
 - EditorConfig
+- Prettier
 
 # GIT
 
