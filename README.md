@@ -23,7 +23,29 @@ Os comando abaixo funcionam de forma **offline** no git.
 - `git commit -m "mensagem"` - atalho para fazer novos commits
 - `git commit --amend` - subtitui oo `commit` anterior por um novo, mas aproveita as alterações dele.
 - `git diff` - calcula a diferença entre as versões/alterações dos arquivos.
-  Os comando abaixo funcionam de forma **oline** no git.
+
+Os comando abaixo funcionam de forma **oline** no git.
+
 - `git push` - empurrar alterações `locais` para o `origin`.
 - `git push --force` - empurrar de forma forçada alterações `locais` para o `origin`.
 - `git push -f` - a forma comprimida do comanda anterior.
+
+# ORGANIZAÇÃO DE PASTAS
+
+```
+📦root/
+├──📂pages/
+│ └──📄index.js
+├──📂models/
+│ ├──📄users.js
+│ ├──📄content.js
+│ └──📄password.js
+├──📂infra/
+│ ├──📄database.js
+│ ├──📂migrations/
+│ └──📂provisioning/
+│ ├──📂staging/
+│ └──📂production/
+└──📂tests/
+
+```
