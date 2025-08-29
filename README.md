@@ -21,7 +21,7 @@ Os comando abaixo funcionam de forma **offline** no git.
 - `git add` - sobe alterações para a `staging area`.
 - `git commit` - realiza novos `commits`
 - `git commit -m "mensagem"` - atalho para fazer novos commits
-- `git commit --amend` - subtitui oo `commit` anterior por um novo, mas aproveita as alterações dele.
+- `git commit --amend` - subtitui o `commit` anterior por um novo, mas aproveita as alterações dele.
 - `git diff` - calcula a diferença entre as versões/alterações dos arquivos.
 
 Os comando abaixo funcionam de forma **oline** no git.
